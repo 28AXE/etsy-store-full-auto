@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+
+# Data
+data/*.json
+data/*.csv
+!data/.gitkeep
+data/analytics/*.jsonl
+
+# Secrets
+.env
+*.key
+credentials.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Output
+output/*.pdf
+output/*.png
+
+# llm-council
+.claude/council-config.json
+!_claude/council-config.json.example
+
+# OS
+.DS_Store
+Thumbs.db
