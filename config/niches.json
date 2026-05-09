@@ -1,0 +1,28 @@
+{
+  "target_niches": [
+    {
+      "name": "Productivity Planners",
+      "keywords": ["daily planner", "productivity tracker", "goal setting"],
+      "price_range": [5, 12],
+      "competition": "medium"
+    },
+    {
+      "name": "Financial Trackers",
+      "keywords": ["budget tracker", "expense log", "savings challenge"],
+      "price_range": [4, 10],
+      "competition": "low"
+    },
+    {
+      "name": "Wellness Journals",
+      "keywords": ["self care", "mental health", "gratitude journal"],
+      "price_range": [6, 15],
+      "competition": "high"
+    },
+    {
+      "name": "Meal Planning",
+      "keywords": ["meal planner", "recipe organizer", "grocery list"],
+      "price_range": [5, 12],
+      "competition": "medium"
+    }
+  ]
+}
